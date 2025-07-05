@@ -57,3 +57,6 @@
 (j) rd.pkl: This file pickles ridge regression model which is selected for use in web application.
 
 (k) X_train.csv: File containing dataset on which the selected model is trained.
+
+
+Web App Link: https://co22338-calories-burnt-predictor.streamlit.app/
