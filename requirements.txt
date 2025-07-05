@@ -1,0 +1,11 @@
+# Necessary packages to be installed
+matplotlib==3.9.0
+numpy==1.26.4
+pandas==2.2.1
+plotly==5.22.0
+scikit-learn==1.4.1.post1
+seaborn==0.13.2
+streamlit==1.35.0
+
+# Use command "pip install package_name" to install every package one by one
+# Use command "pip install -r requirements.txt" to install all packages mentioned in requirements.txt at once
